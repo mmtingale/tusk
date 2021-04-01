@@ -4,7 +4,10 @@ Welcome to my kitchen.
 
 Kheer
 pasta
-pizza
+chicken fry
+
+beans
+pizza1
 
 
 thank you!
